@@ -1,0 +1,570 @@
+[2025-03-01 19:49:11] - Datos incompletos: ID o appreal no recibidos
+[2025-03-01 19:50:52] - Datos recibidos: Array
+(
+)
+
+[2025-03-01 19:50:52] - Datos incompletos: ID o appreal no recibidos
+[2025-03-01 19:52:42] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 19:52:42] - Datos incompletos: ID o appreal no recibidos
+[2025-03-01 19:53:17] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 19:53:17] - Actualización exitosa para el ID: 106
+[2025-03-01 19:53:28] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 19:53:28] - Actualización exitosa para el ID: 106
+[2025-03-01 19:53:37] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 19:53:37] - Actualización exitosa para el ID: 106
+[2025-03-01 19:53:47] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 19:53:47] - Actualización exitosa para el ID: 106
+[2025-03-01 20:00:23] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:00:23] - Actualización exitosa para el ID: 106
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:48] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:03:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:09] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:04:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:05:51] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:06:52] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:06:54] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:07:53] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:09:44] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:14:36] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:16:29] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:17:10] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:17:18] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:18:08] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:18:13] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:18:20] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:18:50] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:19:02] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:19:16] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-01 20:24:11] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 0
+)
+
+[2025-03-01 20:24:17] - Datos recibidos: Array
+(
+    [id] => 106
+    [chec] => 1
+)
+
+[2025-03-10 19:59:28] - Datos recibidos: Array
+(
+    [id] => 109
+    [chec] => 1
+)
+
+[2025-03-10 20:01:11] - Datos recibidos: Array
+(
+    [id] => 109
+    [chec] => 0
+)
+
+[2025-03-10 20:01:27] - Datos recibidos: Array
+(
+    [id] => 109
+    [chec] => 1
+)
+
+[2025-03-12 03:54:59] - Datos recibidos: Array
+(
+    [id] => 116
+    [chec] => 0
+)
+
+[2025-03-12 03:55:45] - Datos recibidos: Array
+(
+    [id] => 116
+    [chec] => 1
+)
+
+[2025-03-15 22:44:23] - Datos recibidos: Array
+(
+    [id] => 187
+    [chec] => 1
+)
+
+[2025-03-15 22:44:26] - Datos recibidos: Array
+(
+    [id] => 187
+    [chec] => 0
+)
+
