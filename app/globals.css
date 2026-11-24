@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* Paleta "premium y cálida": crema, arena, espresso, con el verde
+   azulado del logo como acento y un toque dorado. */
+@theme {
+  --color-cream: #f7f1e8;
+  --color-ivory: #fbf8f3;
+  --color-sand: #eadfcc;
+  --color-taupe: #c9b89c;
+  --color-cocoa: #6b5443;
+  --color-ink: #2a211b;
+  --color-teal: #195f5b;
+  --color-teal-soft: #d9e9e5;
+  --color-gold: #7a5a2b; /* texto sobre fondos claros (contraste AA) */
+  --color-gold-light: #d4b37f; /* sobre fondos oscuros */
+
+  --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
+  --font-sans: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-4xl: 2rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-ivory text-ink font-sans antialiased;
+  }
+  h1, h2, h3 {
+    @apply font-serif tracking-tight text-balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-teal;
+  }
+}
+
+@utility container-x {
+  @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+}
+@utility eyebrow {
+  @apply inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.22em] text-gold;
+  &::before {
+    content: "";
+    @apply h-px w-8 bg-gold;
+  }
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3.5 text-sm font-semibold transition duration-200;
+}
+@utility btn-primary {
+  @apply btn bg-ink text-cream hover:bg-teal;
+}
+@utility btn-light {
+  @apply btn bg-cream text-ink hover:bg-white;
+}
+@utility btn-outline {
+  @apply btn border border-ink/20 text-ink hover:border-ink hover:bg-ink hover:text-cream;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: reveal 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .reveal-2 { animation-delay: 0.12s; }
+  .reveal-3 { animation-delay: 0.24s; }
+}
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}

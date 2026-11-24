@@ -1,0 +1,10 @@
+# Caché larga para archivos con hash y las imágenes.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/img/*
+  Cache-Control: public, max-age=2592000
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN

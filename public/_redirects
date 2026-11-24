@@ -1,0 +1,19 @@
+# Redirecciones 301 desde las URLs del sitio anterior (conserva el SEO ganado).
+# Cloudflare Pages también quita el ".html", por eso van ambas variantes.
+/index.html            /                             301
+/blanqueamiento.html   /tratamientos/blanqueamiento  301
+/blanqueamiento        /tratamientos/blanqueamiento  301
+/carillas.html         /tratamientos/carillas        301
+/carillas              /tratamientos/carillas        301
+/service.html          /tratamientos                 301
+/service               /tratamientos                 301
+/price.html            /tratamientos                 301
+/price                 /tratamientos                 301
+/about.html            /nosotros                     301
+/about                 /nosotros                     301
+/team.html             /nosotros                     301
+/team                  /nosotros                     301
+/contact.html          /contacto                     301
+/contact               /contacto                     301
+/appointment.html      /contacto                     301
+/appointment           /contacto                     301
